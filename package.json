@@ -29,6 +29,6 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "d756816d-5a95-4f8a-ac3e-2fed72a09d71",
+    "uuid": "d756816d-5a95-4f8a-ac3e-2fed72a09d71"
   } 
 }
